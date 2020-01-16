@@ -1,0 +1,3 @@
+Skulderbredde 32
+Halsvidde 45
+Livvidde 100
